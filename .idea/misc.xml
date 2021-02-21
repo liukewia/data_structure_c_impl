@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/CourseBook/0201_SinglyLinkedList" />
+      <file path="$PROJECT_DIR$/CourseBook/0202_StaticLinkedList" />
+      <file path="$PROJECT_DIR$/CourseBook/0203_DoublyLinkedList" />
+      <file path="$PROJECT_DIR$/CourseBook/0301_SqStack" />
+      <file path="$PROJECT_DIR$/Status" />
+    </sourceRoots>
+  </component>
+</project>

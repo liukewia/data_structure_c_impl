@@ -1,0 +1,4 @@
+add_subdirectory(0201_SinglyLinkedList)
+add_subdirectory(0202_StaticLinkedList)
+add_subdirectory(0203_DoublyLinkedList)
+add_subdirectory(0301_SqStack)
