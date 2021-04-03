@@ -147,4 +147,18 @@ Status Pop(SqStack* S, SElemType* e) {
  *
  * 用visit函数访问顺序栈S
  */
-Status StackTraverse(SqStack S, void(Visit)(SElemType));
+Status StackTraverse(SqStack S, void(Visit)(SElemType)) {
+    int i;
+
+    if(Q.base == NULL) {
+        return ERROR;
+    }
+
+    for(i = Q.front; i != Q.rear; i = (i + 1) % MAXQSIZE) {
+        Visit(Q.base[i]);
+    }
+
+    printf("\n");
+
+    return OK;
+}

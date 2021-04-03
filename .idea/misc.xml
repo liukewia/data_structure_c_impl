@@ -7,6 +7,9 @@
       <file path="$PROJECT_DIR$/CourseBook/0202_StaticLinkedList" />
       <file path="$PROJECT_DIR$/CourseBook/0203_DoublyLinkedList" />
       <file path="$PROJECT_DIR$/CourseBook/0301_SqStack" />
+      <file path="$PROJECT_DIR$/CourseBook/0302_SqQueue" />
+      <file path="$PROJECT_DIR$/CourseBook/0303_LinkedQueue" />
+      <file path="$PROJECT_DIR$/CourseBook/0401_SString" />
       <file path="$PROJECT_DIR$/Status" />
     </sourceRoots>
   </component>
